@@ -15,18 +15,18 @@ body{
     background-color: white;
 }
 
-.Scan-text img{
+.Scan-con img{
     width: 200px;
     height: 200px;
     padding: 17px;
 }
 
-.Scan-text p{
+.Scan-con p{
     text-align: center;
     justify-content: space-evenly;
 }
 
-.Scan-text h6{
+.Scan-con h6{
     text-align: center;
     font-weight: 100;
 }
